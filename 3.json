@@ -1,8 +1,8 @@
 {
-    "spider":"https://ghproxy.net/https://raw.githubusercontent.com/szhboy111/ysm/main/Yoursmile.jar;md5;D6B3D6332EDB9D4B859E418C4B226FAC",
+    "spider":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/ysm/master/Yoursmile.jar;md5;28A7B24F340910BB52DBE760B0445629",
     "wallpaper":"https://深色壁纸.xxooo.cf/",
     "lives":[
-        {"name":"初秋语","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/szhboy111/sao/master/list.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+        {"name":"初秋语","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/sao/main/list.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
         {"name":"Ray","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
     ],
 
@@ -230,7 +230,7 @@
             "searchable":1,
             "quickSearch":1,
             "changeable":1,
-            "ext":"https://raw.kkgithub.com/szhboy111/h1/main/XBPQ/Bili短剧.json"
+            "ext":"https://cdn.jsdelivr.us/gh/szhboy111/h1@main/XBPQ/Bili短剧.json"
         },{
             "key":"csp_巴士",
             "name":"动漫┃巴士",
@@ -268,134 +268,134 @@
             "key":"drpy_B站",
             "name":"影视┃B站",
             "type":3,
-            "api":"https://ghproxy.net/https://raw.githubusercontent.com/szhboy111/h1/master/lib/drpy2.min.js",
-            "ext":"https://ghproxy.net/https://raw.githubusercontent.com/szhboy111/h1/master/js/B站影视.js"
+            "api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/h1/master/lib/drpy2.min.js",
+            "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/h1/master/js/B站影视.js"
         },{
             "key":"drpy_人人",
             "name":"影视┃人人",
             "type":3,
-            "api":"https://ghproxy.net/https://raw.githubusercontent.com/szhboy111/h1/master/lib/drpy2.min.js",
-            "ext":"https://ghproxy.net/https://raw.githubusercontent.com/szhboy111/h1/master/js/人人影视.js"
+            "api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/h1/master/lib/drpy2.min.js",
+            "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/h1/master/js/人人影视.js"
         },{
             "key":"drpy_南挂",
             "name":"影视┃南瓜",
             "type":3,
-            "api":"https://ghproxy.net/https://raw.githubusercontent.com/szhboy111/h1/master/lib/drpy2.min.js",
-            "ext":"https://ghproxy.net/https://raw.githubusercontent.com/szhboy111/h1/master/js/南瓜影视.js"
+            "api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/h1/master/lib/drpy2.min.js",
+            "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/h1/master/js/南瓜影视.js"
         },{
             "key":"drpy_网飞",
             "name":"影视┃网飞",
             "type":3,
-            "api":"https://ghproxy.net/https://raw.githubusercontent.com/szhboy111/h1/master/lib/drpy2.min.js",
-            "ext":"https://ghproxy.net/https://raw.githubusercontent.com/szhboy111/h1/master/js/网飞TV.js"
+            "api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/h1/master/lib/drpy2.min.js",
+            "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/h1/master/js/网飞TV.js"
         },{
             "key":"drpy_看看",
             "name":"影视┃快看",
             "type":3,
-            "api":"https://ghproxy.net/https://raw.githubusercontent.com/szhboy111/h1/master/lib/drpy2.min.js",
-            "ext":"https://ghproxy.net/https://raw.githubusercontent.com/szhboy111/h1/master/js/快看.js"
+            "api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/h1/master/lib/drpy2.min.js",
+            "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/h1/master/js/快看.js"
         },{
             "key":"drpy_爱看",
             "name":"影视┃爱看",
             "type":3,
-            "api":"https://ghproxy.net/https://raw.githubusercontent.com/szhboy111/h1/master/lib/drpy2.min.js",
-            "ext":"https://ghproxy.net/https://raw.githubusercontent.com/szhboy111/h1/master/js/爱看影院.js"
+            "api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/h1/master/lib/drpy2.min.js",
+            "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/h1/master/js/爱看影院.js"
         },{
             "key":"drpy_工场",
             "name":"影视┃工厂",
             "type":3,
-            "api":"https://ghproxy.net/https://raw.githubusercontent.com/szhboy111/h1/master/lib/drpy2.min.js",
-            "ext":"https://ghproxy.net/https://raw.githubusercontent.com/szhboy111/h1/master/js/影视工场.js"
+            "api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/h1/master/lib/drpy2.min.js",
+            "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/h1/master/js/影视工场.js"
         },{
             "key":"drpy_良子",
             "name":"影视┃量子",
             "type":3,
-            "api":"https://ghproxy.net/https://raw.githubusercontent.com/szhboy111/h1/master/lib/drpy2.min.js",
-            "ext":"https://ghproxy.net/https://raw.githubusercontent.com/szhboy111/h1/master/js/量子资源.js"
+            "api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/h1/master/lib/drpy2.min.js",
+            "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/h1/master/js/量子资源.js"
         },{
             "key":"drpy_灵云",
             "name":"影视┃灵云",
             "type":3,
-            "api":"https://ghproxy.net/https://raw.githubusercontent.com/szhboy111/h1/master/lib/drpy2.min.js",
-            "ext":"https://ghproxy.net/https://raw.githubusercontent.com/szhboy111/h1/master/js/凌云影视.js"
+            "api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/h1/master/lib/drpy2.min.js",
+            "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/h1/master/js/凌云影视.js"
         },{
             "key":"drpy_魔力",
             "name":"影视┃魔力",
             "type":3,
-            "api":"https://ghproxy.net/https://raw.githubusercontent.com/szhboy111/h1/master/lib/drpy2.min.js",
-            "ext":"https://ghproxy.net/https://raw.githubusercontent.com/szhboy111/h1/master/js/HDmoli.js"
+            "api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/h1/master/lib/drpy2.min.js",
+            "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/h1/master/js/HDmoli.js"
         },{
             "key":"drpy_畅梦",
             "name":"畅梦┃秒播",
             "type":3,
-            "api":"https://ghproxy.net/https://raw.githubusercontent.com/szhboy111/h1/master/lib/drpy2.min.js",
-            "ext":"https://ghproxy.net/https://raw.githubusercontent.com/szhboy111/h1/master/js/changmeng.js"
+            "api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/h1/master/lib/drpy2.min.js",
+            "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/h1/master/js/changmeng.js"
         },{
             "key":"drpy_荐片",
             "name":"荐片┃秒播",
             "type":3,
-            "api":"https://ghproxy.net/https://raw.githubusercontent.com/szhboy111/h1/master/lib/drpy2.min.js",
-            "ext":"https://ghproxy.net/https://raw.githubusercontent.com/szhboy111/h1/master/js/jp.js"
+            "api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/h1/master/lib/drpy2.min.js",
+            "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/h1/master/js/jp.js"
         },{
             "key":"drpy_360",
             "name":"官源┃360",
             "type":3,
-            "api":"https://ghproxy.net/https://raw.githubusercontent.com/szhboy111/h1/master/lib/drpy2.min.js",
-            "ext":"https://ghproxy.net/https://raw.githubusercontent.com/szhboy111/h1/master/js/360影视.js"
+            "api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/h1/master/lib/drpy2.min.js",
+            "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/h1/master/js/360影视.js"
         },{
             "key":"drpy_奇异",
             "name":"官源┃奇异",
             "type":3,
-            "api":"https://ghproxy.net/https://raw.githubusercontent.com/szhboy111/h1/master/lib/drpy2.min.js",
-            "ext":"https://ghproxy.net/https://raw.githubusercontent.com/szhboy111/h1/master/js/aiqiyi.js"
+            "api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/h1/master/lib/drpy2.min.js",
+            "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/h1/master/js/aiqiyi.js"
         },{
             "key":"drpy_腾讯",
             "name":"官源┃腾讯",
             "type":3,
-            "api":"https://ghproxy.net/https://raw.githubusercontent.com/szhboy111/h1/master/lib/drpy2.min.js",
-            "ext":"https://ghproxy.net/https://raw.githubusercontent.com/szhboy111/h1/master/js/tengxun.js"
+            "api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/h1/master/lib/drpy2.min.js",
+            "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/h1/master/js/tengxun.js"
         },{
             "key":"drpy_优酷",
             "name":"官源┃优酷",
             "type":3,
-            "api":"https://ghproxy.net/https://raw.githubusercontent.com/szhboy111/h1/master/lib/drpy2.min.js",
-            "ext":"https://ghproxy.net/https://raw.githubusercontent.com/szhboy111/h1/master/js/youku.js"
+            "api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/h1/master/lib/drpy2.min.js",
+            "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/h1/master/js/youku.js"
         },{
             "key":"drpy_搜狗",
             "name":"官源┃搜狗",
             "type":3,
-            "api":"https://ghproxy.net/https://raw.githubusercontent.com/szhboy111/h1/master/lib/drpy2.min.js",
-            "ext":"https://ghproxy.net/https://raw.githubusercontent.com/szhboy111/h1/master/js/caigou.js"
+            "api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/h1/master/lib/drpy2.min.js",
+            "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/h1/master/js/caigou.js"
         },{
             "key":"drpy_芒果",
             "name":"官源┃芒果",
             "type":3,
-            "api":"https://ghproxy.net/https://raw.githubusercontent.com/szhboy111/h1/master/lib/drpy2.min.js",
-            "ext":"https://ghproxy.net/https://raw.githubusercontent.com/szhboy111/h1/master/js/mangguo.js"
+            "api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/h1/master/lib/drpy2.min.js",
+            "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/h1/master/js/mangguo.js"
         },{
             "key":"drpy_五八",
             "name":"动漫┃58动漫",
             "type":3,
-            "api":"https://ghproxy.net/https://raw.githubusercontent.com/szhboy111/h1/master/lib/drpy2.min.js",
-            "ext":"https://ghproxy.net/https://raw.githubusercontent.com/szhboy111/h1/master/js/58动漫.js"
+            "api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/h1/master/lib/drpy2.min.js",
+            "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/h1/master/js/58动漫.js"
         },{
             "key":"drpy_漫岛",
             "name":"动漫┃动漫岛",
             "type":3,
-            "api":"https://ghproxy.net/https://raw.githubusercontent.com/szhboy111/h1/master/lib/drpy2.min.js",
-            "ext":"https://ghproxy.net/https://raw.githubusercontent.com/szhboy111/h1/master/js/动漫岛.js"
+            "api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/h1/master/lib/drpy2.min.js",
+            "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/h1/master/js/动漫岛.js"
         },{
             "key":"drpy_奇米",
             "name":"动漫┃奇米",
             "type":3,
-            "api":"https://ghproxy.net/https://raw.githubusercontent.com/szhboy111/h1/master/lib/drpy2.min.js",
-            "ext":"https://ghproxy.net/https://raw.githubusercontent.com/szhboy111/h1/master/js/奇米动漫.js"
+            "api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/h1/master/lib/drpy2.min.js",
+            "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/h1/master/js/奇米动漫.js"
         },{
             "key":"drpy_怡萱",
             "name":"动漫┃怡萱",
             "type":3,
-            "api":"https://ghproxy.net/https://raw.githubusercontent.com/szhboy111/h1/master/lib/drpy2.min.js",
-            "ext":"https://ghproxy.net/https://raw.githubusercontent.com/szhboy111/h1/master/js/怡萱动漫.js"},
+            "api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/h1/master/lib/drpy2.min.js",
+            "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/h1/master/js/怡萱动漫.js"},
 // ++ XBPQ
         {
             "key":"BPQ_djtt",
@@ -405,7 +405,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://raw.kkgithub.com/szhboy111/h1/main/XBPQ/duanjutt.json"
+            "ext":"https://cdn.jsdelivr.us/gh/szhboy111/h1@main/XBPQ/duanjutt.json"
         },{
             "key":"BPQ_糯米",
             "name":"糯米┃秒播",
@@ -428,7 +428,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://raw.kkgithub.com/szhboy111/h1/main/XBPQ/putao.json"
+            "ext":"https://cdn.jsdelivr.us/gh/szhboy111/h1@main/XBPQ/putao.json"
         },{
             "key":"BPQ_免费",
             "name":"️免费┃短剧",
@@ -437,7 +437,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://raw.kkgithub.com/szhboy111/h1/main/XBPQ/免费短剧.json"
+            "ext":"https://cdn.jsdelivr.us/gh/szhboy111/h1@main/XBPQ/免费短剧.json"
         },{
             "key":"BPQ_胖都",
             "name":"胖嘟┃短剧",
@@ -446,7 +446,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://raw.kkgithub.com/szhboy111/h1/main/XBPQ/胖嘟短剧.json"
+            "ext":"https://cdn.jsdelivr.us/gh/szhboy111/h1@main/XBPQ/胖嘟短剧.json"
         },{
             "key":"BPQ_快看",
             "name":"️快看┃影视",
@@ -455,7 +455,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://raw.kkgithub.com/szhboy111/h1/main/XBPQ/快看影视.json"
+            "ext":"https://cdn.jsdelivr.us/gh/szhboy111/h1@main/XBPQ/快看影视.json"
         },{
             "key":"BPQ_片吧",
             "name":"片吧┃影院",
@@ -464,7 +464,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://raw.kkgithub.com/szhboy111/h1/main/XBPQ/pianba.json"
+            "ext":"https://cdn.jsdelivr.us/gh/szhboy111/h1@main/XBPQ/pianba.json"
         },{
             "key":"BPQ_木瓜",
             "name":"木瓜┃影院",
@@ -473,7 +473,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://raw.kkgithub.com/szhboy111/h1/main/XBPQ/mugua.json"
+            "ext":"https://cdn.jsdelivr.us/gh/szhboy111/h1@main/XBPQ/mugua.json"
         },{
             "key":"BPQ_河马",
             "name":"河马┃视频",
@@ -482,7 +482,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://raw.kkgithub.com/szhboy111/h1/main/XBPQ/hema.json"
+            "ext":"https://cdn.jsdelivr.us/gh/szhboy111/h1@main/XBPQ/hema.json"
         },{
             "key":"BPQ_Vid",
             "name":"Vid┃视频",
@@ -491,7 +491,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://raw.kkgithub.com/szhboy111/h1/main/XBPQ/vid.json"
+            "ext":"https://cdn.jsdelivr.us/gh/szhboy111/h1@main/XBPQ/vid.json"
         },{
             "key":"BPQ_珂珂",
             "name":"️珂珂┃影视",
@@ -500,7 +500,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://raw.kkgithub.com/szhboy111/h1/main/XBPQ/可可影视.json"
+            "ext":"https://cdn.jsdelivr.us/gh/szhboy111/h1@main/XBPQ/可可影视.json"
         },{
             "key":"BPQ_不卡",
             "name":"️不卡┃影视",
@@ -509,7 +509,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://raw.kkgithub.com/szhboy111/h1/main/XBPQ/不卡.json"
+            "ext":"https://cdn.jsdelivr.us/gh/szhboy111/h1@main/XBPQ/不卡.json"
         },{
             "key":"BPQ_饭团",
             "name":"️饭团┃影视",
@@ -518,7 +518,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://raw.kkgithub.com/szhboy111/h1/main/XBPQ/fantuan.json"
+            "ext":"https://cdn.jsdelivr.us/gh/szhboy111/h1@main/XBPQ/fantuan.json"
         },{
             "key":"BPQ_神仙",
             "name":"️神仙┃影视",
@@ -527,7 +527,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://raw.kkgithub.com/szhboy111/h1/main/XBPQ/神仙.json"
+            "ext":"https://cdn.jsdelivr.us/gh/szhboy111/h1@main/XBPQ/神仙.json"
         },{
             "key":"BPQ_乐播",
             "name":"️热播┃之家",
@@ -536,7 +536,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://raw.kkgithub.com/szhboy111/h1/main/XBPQ/rbzj.json"
+            "ext":"https://cdn.jsdelivr.us/gh/szhboy111/h1@main/XBPQ/rbzj.json"
         },{
             "key":"BPQ_七猫",
             "name":"️七猫┃影视",
@@ -545,7 +545,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://raw.kkgithub.com/szhboy111/h1/main/XBPQ/七猫.json"
+            "ext":"https://cdn.jsdelivr.us/gh/szhboy111/h1@main/XBPQ/七猫.json"
         },{
             "key":"BPQ_文才",
             "name":"️文才┃影视",
@@ -554,7 +554,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://raw.kkgithub.com/szhboy111/h1/main/XBPQ/文才.json"
+            "ext":"https://cdn.jsdelivr.us/gh/szhboy111/h1@main/XBPQ/文才.json"
         },{
             "key":"BPQ_茶杯",
             "name":"️茶杯┃影视",
@@ -563,7 +563,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://raw.kkgithub.com/szhboy111/h1/main/XBPQ/茶狐杯.json"
+            "ext":"https://cdn.jsdelivr.us/gh/szhboy111/h1@main/XBPQ/茶狐杯.json"
         },{
             "key":"BPQ_玖八",
             "name":"️玖八┃影视",
@@ -572,7 +572,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://raw.kkgithub.com/szhboy111/h1/main/XBPQ/98.json"
+            "ext":"https://cdn.jsdelivr.us/gh/szhboy111/h1@main/XBPQ/98.json"
         },{
             "key":"BPQ_七新",
             "name":"️七新┃影视",
@@ -581,7 +581,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://raw.kkgithub.com/szhboy111/h1/main/XBPQ/七新.json"
+            "ext":"https://cdn.jsdelivr.us/gh/szhboy111/h1@main/XBPQ/七新.json"
         },{
             "key":"BPQ_348",
             "name":"️348┃秒播",
@@ -590,7 +590,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://raw.kkgithub.com/szhboy111/h1/main/XBPQ/348.json"
+            "ext":"https://cdn.jsdelivr.us/gh/szhboy111/h1@main/XBPQ/348.json"
         },{
             "key":"BPQ_五五",
             "name":"️五五┃秒播",
@@ -599,7 +599,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://raw.kkgithub.com/szhboy111/h1/main/XBPQ/55.json"
+            "ext":"https://cdn.jsdelivr.us/gh/szhboy111/h1@main/XBPQ/55.json"
         },{
             "key":"BPQ_兄弟",
             "name":"️兄弟┃影视",
@@ -608,7 +608,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://raw.kkgithub.com/szhboy111/h1/main/XBPQ/兄弟影视.json"
+            "ext":"https://cdn.jsdelivr.us/gh/szhboy111/h1@main/XBPQ/兄弟影视.json"
         },{
             "key":"BPQ_达龟",
             "name":"️达龟┃秒播",
@@ -617,7 +617,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://raw.kkgithub.com/szhboy111/h1/main/XBPQ/dadagui.json"
+            "ext":"https://cdn.jsdelivr.us/gh/szhboy111/h1@main/XBPQ/dadagui.json"
         },{
             "key":"BPQ_蛋蛋",
             "name":"️蛋蛋┃影视",
@@ -626,7 +626,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://raw.kkgithub.com/szhboy111/h1/main/XBPQ/dandan.json"
+            "ext":"https://cdn.jsdelivr.us/gh/szhboy111/h1@main/XBPQ/dandan.json"
         },{
             "key":"BPQ_疯狗",
             "name":"疯狗┃秒播",
@@ -635,7 +635,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://raw.kkgithub.com/szhboy111/h1/main/XBPQ/fgys.json"
+            "ext":"https://cdn.jsdelivr.us/gh/szhboy111/h1@main/XBPQ/fgys.json"
         },{
             "key":"BPQ_星辰",
             "name":"️星辰┃秒播",
@@ -644,7 +644,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://raw.kkgithub.com/szhboy111/h1/main/XBPQ/xcys.json"
+            "ext":"https://cdn.jsdelivr.us/gh/szhboy111/h1@main/XBPQ/xcys.json"
         },{
             "key":"BPQ_黑狐",
             "name":"️黑狐┃秒播",
@@ -653,7 +653,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://raw.kkgithub.com/szhboy111/h1/main/XBPQ/heihu.json"
+            "ext":"https://cdn.jsdelivr.us/gh/szhboy111/h1@main/XBPQ/heihu.json"
         },{
             "key":"BPQ_剧白",
             "name":"剧白┃秒播",
@@ -662,7 +662,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://raw.kkgithub.com/szhboy111/h1/main/XBPQ/剧白白.json"
+            "ext":"https://cdn.jsdelivr.us/gh/szhboy111/h1@main/XBPQ/剧白白.json"
         },{
             "key":"BPQ_素白",
             "name":"素白┃秒播",
@@ -671,7 +671,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://raw.kkgithub.com/szhboy111/h1/main/XBPQ/素白白.json"
+            "ext":"https://cdn.jsdelivr.us/gh/szhboy111/h1@main/XBPQ/素白白.json"
         },{
             "key":"BPQ_凌云",
             "name":"️凌云┃影视",
@@ -680,7 +680,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://raw.kkgithub.com/szhboy111/h1/main/XBPQ/凌云.json"
+            "ext":"https://cdn.jsdelivr.us/gh/szhboy111/h1@main/XBPQ/凌云.json"
         },{
             "key":"BPQ_小熊",
             "name":"️小熊┃影视",
@@ -689,7 +689,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://raw.kkgithub.com/szhboy111/h1/main/XBPQ/小熊影视.json"
+            "ext":"https://cdn.jsdelivr.us/gh/szhboy111/h1@main/XBPQ/小熊影视.json"
         },{
             "key":"BPQ_茶狐",
             "name":"️茶狐┃影视",
@@ -698,7 +698,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://raw.kkgithub.com/szhboy111/h1/main/XBPQ/小茶狐.json"
+            "ext":"https://cdn.jsdelivr.us/gh/szhboy111/h1@main/XBPQ/小茶狐.json"
         },{
             "key":"BPQ_老六",
             "name":"️老六┃影视",
@@ -707,7 +707,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://raw.kkgithub.com/szhboy111/h1/main/XBPQ/老六影视.json"
+            "ext":"https://cdn.jsdelivr.us/gh/szhboy111/h1@main/XBPQ/老六影视.json"
         },{
             "key":"BPQ_圣城",
             "name":"️圣城┃影视",
@@ -716,7 +716,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://raw.kkgithub.com/szhboy111/h1/main/XBPQ/sc1080.json"
+            "ext":"https://cdn.jsdelivr.us/gh/szhboy111/h1@main/XBPQ/sc1080.json"
         },{
             "key":"BPQ_骚火",
             "name":"骚火┃秒播",
@@ -725,7 +725,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://raw.kkgithub.com/szhboy111/h1/main/XBPQ/shdy2.json"
+            "ext":"https://cdn.jsdelivr.us/gh/szhboy111/h1@main/XBPQ/shdy2.json"
         },{
             "key":"BPQ_晴天",
             "name":"晴天┃影视",
@@ -734,7 +734,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://raw.kkgithub.com/szhboy111/h1/main/XBPQ/晴天.json"
+            "ext":"https://cdn.jsdelivr.us/gh/szhboy111/h1@main/XBPQ/晴天.json"
         },{
             "key":"BPQ_Free",
             "name":"Free┃影视",
@@ -743,7 +743,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://raw.kkgithub.com/szhboy111/h1/main/XBPQ/free.json"
+            "ext":"https://cdn.jsdelivr.us/gh/szhboy111/h1@main/XBPQ/free.json"
         },{
             "key":"BPQ_蛋蛋",
             "name":"蛋蛋┃影视",
@@ -752,7 +752,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://raw.kkgithub.com/szhboy111/h1/main/XBPQ/dandan.json"
+            "ext":"https://cdn.jsdelivr.us/gh/szhboy111/h1@main/XBPQ/dandan.json"
         },{
             "key":"BPQ_奇优",
             "name":"️奇优┃影视",
@@ -761,7 +761,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://raw.kkgithub.com/szhboy111/h1/main/XBPQ/qiyou.json"
+            "ext":"https://cdn.jsdelivr.us/gh/szhboy111/h1@main/XBPQ/qiyou.json"
         },{
             "key":"BPQ_云播",
             "name":"云播┃影视",
@@ -771,7 +771,7 @@
             "quickSearch":1,
             "filterable":1,
             "changeable":1,
-            "ext":"https://raw.kkgithub.com/szhboy111/h1/main/XBPQ/tvb.json"
+            "ext":"https://cdn.jsdelivr.us/gh/szhboy111/h1@main/XBPQ/tvb.json"
         },{
             "key":"BPQ_子子",
             "name":"️子子┃秒播",
@@ -780,7 +780,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://raw.kkgithub.com/szhboy111/h1/main/XBPQ/zizi.json"
+            "ext":"https://cdn.jsdelivr.us/gh/szhboy111/h1@main/XBPQ/zizi.json"
         },{
             "key":"BPQ_可达",
             "name":"️可达┃影视",
@@ -789,7 +789,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://raw.kkgithub.com/szhboy111/h1/main/XBPQ/keda.json"
+            "ext":"https://cdn.jsdelivr.us/gh/szhboy111/h1@main/XBPQ/keda.json"
         },{
             "key":"BPQ_西屋",
             "name":"️西屋┃影视",
@@ -798,7 +798,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://raw.kkgithub.com/szhboy111/h1/main/XBPQ/xiwu.json"
+            "ext":"https://cdn.jsdelivr.us/gh/szhboy111/h1@main/XBPQ/xiwu.json"
         },{
             "key":"BPQ_极客",
             "name":"️极客┃影视",
@@ -807,7 +807,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://raw.kkgithub.com/szhboy111/h1/main/XBPQ/jike.json"
+            "ext":"https://cdn.jsdelivr.us/gh/szhboy111/h1@main/XBPQ/jike.json"
         },{
             "key":"BPQ_超前",
             "name":"️超前┃影视",
@@ -816,7 +816,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://raw.kkgithub.com/szhboy111/h1/main/XBPQ/超前bz.json"
+            "ext":"https://cdn.jsdelivr.us/gh/szhboy111/h1@main/XBPQ/超前bz.json"
         },{
             "key":"BPQ_宿命",
             "name":"️宿命┃影视",
@@ -825,7 +825,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://raw.kkgithub.com/szhboy111/h1/main/XBPQ/宿命影视.json"
+            "ext":"https://cdn.jsdelivr.us/gh/szhboy111/h1@main/XBPQ/宿命影视.json"
         },{
             "key":"BPQ_石榴",
             "name":"石榴┃影视",
@@ -834,7 +834,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://raw.kkgithub.com/szhboy111/h1/main/XBPQ/shiliu.json"
+            "ext":"https://cdn.jsdelivr.us/gh/szhboy111/h1@main/XBPQ/shiliu.json"
         },{
             "key":"BPQ_VS",
             "name":"VS┃秒播",
@@ -843,7 +843,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://raw.kkgithub.com/szhboy111/h1/main/XBPQ/vsys.json"
+            "ext":"https://cdn.jsdelivr.us/gh/szhboy111/h1@main/XBPQ/vsys.json"
         },{
             "key":"BPQ_盒子",
             "name":"盒子┃秒播",
@@ -852,7 +852,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://raw.kkgithub.com/szhboy111/h1/main/XBPQ/hezi.json"
+            "ext":"https://cdn.jsdelivr.us/gh/szhboy111/h1@main/XBPQ/hezi.json"
         },{
             "key":"BPQ_爱看",
             "name":"爱看┃影视",
@@ -861,7 +861,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://raw.kkgithub.com/szhboy111/h1/main/XBPQ/爱看影视.json"
+            "ext":"https://cdn.jsdelivr.us/gh/szhboy111/h1@main/XBPQ/爱看影视.json"
         },{
             "key":"BPQ_光棍",
             "name":"光棍┃影视",
@@ -870,7 +870,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://raw.kkgithub.com/szhboy111/h1/main/XBPQ/guangun.json"
+            "ext":"https://cdn.jsdelivr.us/gh/szhboy111/h1@main/XBPQ/guangun.json"
         },{
             "key":"BPQ_策驰",
             "name":"策驰┃影视",
@@ -879,7 +879,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://raw.kkgithub.com/szhboy111/h1/main/XBPQ/cechi.json"
+            "ext":"https://cdn.jsdelivr.us/gh/szhboy111/h1@main/XBPQ/cechi.json"
         },{
             "key":"BPQ_萌猫",
             "name":"萌猫┃影视",
@@ -888,7 +888,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://raw.kkgithub.com/szhboy111/h1/main/XBPQ/萌猫影视.json"
+            "ext":"https://cdn.jsdelivr.us/gh/szhboy111/h1@main/XBPQ/萌猫影视.json"
         },
 //bilibili教育
         {
