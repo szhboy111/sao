@@ -1,8 +1,9 @@
 {
-    "spider":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/ysm/master/Yoursmile.jar;md5;28A7B24F340910BB52DBE760B0445629",
-    "wallpaper":"https://深色壁纸.xxooo.cf/",
+    "spider":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/ysm/master/Yoursmile.jar;md5;95E0C7F4DDFE38F018E872FB2C934E1E",
+    "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
     "lives":[
-        {"name":"初秋语","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/sao/main/list.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+        {"name":"live","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+        {"name":"live2","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/sao/master/list.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
         {"name":"Ray","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
     ],
 
@@ -73,6 +74,40 @@
             "filterable":1,
             "ext":"http://api2.rinhome.com"
         },{
+            "key":"csp_Juqq",
+            "name":"剧圈┃影视",
+            "type":3,"api":"csp_Juqq",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },{
+            "key":"csp_AppRZ",
+            "name":"忍者┃影视",
+            "type":3,"api":"csp_AppRZ",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,"ext":"http://rzys.xyz/"
+        },{
+            "key":"csp_FreeOK",
+            "name":"Free┃影视",
+            "type":3,"api":"csp_FreeOK",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },{
+            "key":"csp_MaoLv",
+            "name":"毛驴┃影视",
+            "type":3,"api":"csp_MaoLv",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },{
+            "key":"csp_SC1080",
+            "name":"圣1城┃影视",
+            "type":3,"api":"csp_SC1080",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1},{
             "key":"csp_csp_Jp",
             "name":"影视┃金牌",
             "type":3,
@@ -214,6 +249,14 @@
             "changeable":1,
             "ext":"https://auete.pro/"
         },{
+            "key":"csp_酷吧",
+            "name":"酷吧┃电影",
+            "type":3,
+            "api":"csp_KubaCL",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },{
             "key":"csp_新6V",
             "name":"新6V┃磁力",
             "type":3,
@@ -265,6 +308,96 @@
             "changeable":1},
 //++drpy-js
         {
+            "key":"drpy_骚火",
+            "name":"影视 | 骚火",
+            "type":3,
+            "api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/sao/master/lib/drpy2.min.js",
+            "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/sao/master/js/骚火电影.js"
+        },{
+            "key":"drpy__多瑙",
+            "name":"影视 | 多瑙",
+            "type":3,
+            "api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/h1/master/lib/drpy2.min.js",
+            "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/h1/master/js/多瑙影视.js"
+        },{
+            "key":"drpy__哔哩",
+            "name":"影视 | 哔哩",
+            "type":3,
+            "api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/sao/master/lib/drpy2.min.js",
+            "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/sao/master/js/哔哩影视.js"
+        },{
+            "key":"drpy__素白",
+            "name":"影视 | 素白",
+            "type":3,
+            "api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/sao/master/lib/drpy2.min.js",
+            "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/sao/master/js/素白白.js"
+        },{
+            "key":"drpy__大米",
+            "name":"影视 | 大米",
+            "type":3,
+            "api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/sao/master/lib/drpy2.min.js",
+            "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/sao/master/js/大米星球[V2].js"
+        },{
+            "key":"drpy__兄弟",
+            "name":"影视 | 兄弟",
+            "type":3,
+            "api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/sao/master/lib/drpy2.min.js",
+            "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/sao/master/js/兄弟影视.js"
+        },{
+            "key":"drpy__低端",
+            "name":"影视 | 低端",
+            "type":3,
+            "api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/sao/master/lib/drpy2.min.js",
+            "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/sao/master/js/ddys_d.js"
+        },{
+            "key":"drpy__蛋蛋",
+            "name":"影视 | 蛋蛋",
+            "type":3,
+            "api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/sao/master/lib/drpy2.min.js",
+            "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/sao/master/js/蛋蛋剧.js"
+        },{
+            "key":"drpy__LIBVIO",
+            "name":"影视 | LIBVIO",
+            "type":3,
+            "api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/sao/master/lib/drpy2.min.js",
+            "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/sao/master/js/LIBVIO.js"
+        },{
+            "key":"drpy__在线",
+            "name":"影视 | 在线",
+            "type":3,
+            "api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/sao/master/lib/drpy2.min.js",
+            "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/sao/master/js/在线之家.js"
+        },{
+            "key":"drpy__爱迪",
+            "name":"影视 | 爱迪",
+            "type":3,
+            "api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/sao/master/lib/drpy2.min.js",
+            "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/sao/master/js/爱迪[V2].js"
+        },{
+            "key":"drpy__秋霞",
+            "name":"影视 | 秋霞",
+            "type":3,
+            "api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/sao/master/lib/drpy2.min.js",
+            "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/sao/master/js/秋霞.js"
+        },{
+            "key":"drpy__子子",
+            "name":"影视 | 子子",
+            "type":3,
+            "api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/sao/master/lib/drpy2.min.js",
+            "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/sao/master/js/子子影视.js"
+        },{
+            "key":"drpy__私人",
+            "name":"影视 | 私人",
+            "type":3,
+            "api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/sao/master/lib/drpy2.min.js",
+            "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/sao/master/js/私人影院.js"
+        },{
+            "key":"drpy__米爱",
+            "name":"影视 | 米爱",
+            "type":3,
+            "api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/sao/master/lib/drpy2.min.js",
+            "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/sao/master/js/米爱影视.js"},
+{
             "key":"drpy_B站",
             "name":"影视┃B站",
             "type":3,
@@ -330,6 +463,12 @@
             "type":3,
             "api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/h1/master/lib/drpy2.min.js",
             "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/h1/master/js/changmeng.js"
+        },{
+            "key":"drpy_voflix",
+            "name":"Voflix┃秒播",
+            "type":3,
+            "api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/h1/master/lib/drpy2.min.js",
+            "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/szhboy111/h1/master/js/voflix.js"
         },{
             "key":"drpy_荐片",
             "name":"荐片┃秒播",
@@ -491,7 +630,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://cdn.jsdelivr.us/gh/szhboy111/h1@main/XBPQ/vid.json"
+            "ext":"https://cdn.jsdelivr.us/gh/szhboy111/h1@main/XBPQ/VidHub.json"
         },{
             "key":"BPQ_珂珂",
             "name":"️珂珂┃影视",
@@ -817,15 +956,6 @@
             "quickSearch":1,
             "filterable":1,
             "ext":"https://cdn.jsdelivr.us/gh/szhboy111/h1@main/XBPQ/超前bz.json"
-        },{
-            "key":"BPQ_宿命",
-            "name":"️宿命┃影视",
-            "type":3,
-            "api":"csp_XBPQ",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://cdn.jsdelivr.us/gh/szhboy111/h1@main/XBPQ/宿命影视.json"
         },{
             "key":"BPQ_石榴",
             "name":"石榴┃影视",
@@ -1253,37 +1383,50 @@
             ]
         }
     ],
-    "doh":[
-        {
-            "name":"Google",
-            "url":"https://dns.google/dns-query",
-            "ips":[
-                "8.8.4.4","8.8.8.8"
-            ]
-        },{
-            "name":"Cloudflare",
-            "url":"https://cloudflare-dns.com/dns-query",
-            "ips":[
-                "1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"
-            ]
-        },{
-            "name":"AdGuard",
-            "url":"https://dns.adguard.com/dns-query",
-            "ips":[
-                "94.140.14.140","94.140.14.141"
-            ]
-        },{
-            "name":"DNSWatch","url":"https://resolver2.dns.watch/dns-query",
-            "ips":[
-                "84.200.69.80","84.200.70.40"
-            ]
-        },{
-            "name":"Quad9","url":"https://dns.quad9.net/dns-quer",
-            "ips":[
-                "9.9.9.9","149.112.112.112"
-            ]
-        }
-    ],
+  "doh": [
+    {
+      "name": "Google",
+      "url": "https://dns.google/dns-query",
+      "ips": [
+        "8.8.4.4",
+        "8.8.8.8"
+      ]
+    },
+    {
+      "name": "Cloudflare",
+      "url": "https://cloudflare-dns.com/dns-query",
+      "ips": [
+        "1.1.1.1",
+        "1.0.0.1",
+        "2606:4700:4700::1111",
+        "2606:4700:4700::1001"
+      ]
+    },
+    {
+      "name": "AdGuard",
+      "url": "https://dns.adguard.com/dns-query",
+      "ips": [
+        "94.140.14.140",
+        "94.140.14.141"
+      ]
+    },
+    {
+      "name": "DNSWatch",
+      "url": "https://resolver2.dns.watch/dns-query",
+      "ips": [
+        "84.200.69.80",
+        "84.200.70.40"
+      ]
+    },
+    {
+      "name": "Quad9",
+      "url": "https://dns.quad9.net/dns-quer",
+      "ips": [
+        "9.9.9.9",
+        "149.112.112.112"
+      ]
+    }
+  ],
     "flags":[
         "youku","qq","QQ","iqiyi","qiyi","letv","sohu","tudou","pptv","PPTV","mgtv","ltnb","rx","SLYS4k","BYGA","BYGB","luanzi","dxzy","QEYSS","aliyun","AliS","122","chuangying","CL4K","xfyun","wuduzy","wasu","bilibili","renrenmi","xmm","xigua","m1905","funshion","优酷","芒果","腾讯","爱奇艺","奇艺","哔哩哔哩","哔哩","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频","FY","fy","FeiYun","feiyun","飞云"
     ],
